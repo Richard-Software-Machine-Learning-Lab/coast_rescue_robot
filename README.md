@@ -14,7 +14,7 @@
    java Main AStar TCONF00
 ```
 
-##Features
+## Features
 ## Grid Representation
    * 2D Rhombus Grid: The environment is represented as a 2D rhombus grid with coordinates (row, column) for robot positioning and obstacle placement.
    * Customizable Grid Size: Allows for easy configuration of the grid size and specific obstacle locations.
