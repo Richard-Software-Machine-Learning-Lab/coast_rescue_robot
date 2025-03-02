@@ -1,8 +1,8 @@
-# Tech stack
+## Tech stack
 * Java 11
 
-# Running the application
+## Running the application
 ```shell script
-* javac src/*.java
-
+   javac src/*.java
+   java Main <DFS|BFS|AStar|BestF|...> <ConfID>
 ```
